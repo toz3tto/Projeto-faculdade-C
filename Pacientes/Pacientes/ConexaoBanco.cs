@@ -15,7 +15,7 @@ namespace Pacientes
         private const string servidor = "localhost";
         private const string bancoDados = "dbPacientes";
         private const string usuario = "root";
-        private const string senha = "aif4966tzt";
+        private const string senha = "sua senha";
 
         //declarando a variavel para fazer a conexão com o banco de dados.
         static public string bancoServidor = $"server={servidor};user id={usuario};database={bancoDados};password={senha}";
